@@ -1,1 +1,4 @@
 .sqlite3
+env.py
+__pycahce__/
+*.pyc
